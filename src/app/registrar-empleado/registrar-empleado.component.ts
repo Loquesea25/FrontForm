@@ -3,6 +3,7 @@ import { Empleado } from '../empleado';
 import { EmpleadoService } from '../empleado.service';
 import { Router } from '@angular/router';
 
+
 @Component({
   selector: 'app-registrar-empleado',
   templateUrl: './registrar-empleado.component.html',
